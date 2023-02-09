@@ -1,1 +1,1 @@
-# -YOLOv8-DeepSORT-Object-Trackiingng
+# -YOLOv8-DeepSORT-Object-Tracking
